@@ -47,5 +47,5 @@ As this project progresses and reaches publication stages, additional informatio
 
 For inquiries about this project, please contact:
 
-- **Dr. Mostafa Milani**: [Contact Email/Profile Link]
-- **Dr. Iftekher Chowdhury**: [Contact Email/Profile Link]
+- **Dr. Mostafa Milani**:
+- **Dr. Iftekher Chowdhury**: 
