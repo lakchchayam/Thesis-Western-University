@@ -2,7 +2,8 @@
 
 # Instacart IAM Integration and Role Synchronization Project
 
-![Instacart Logo](logos/instacart_logo.png) ![Western Logo](logos/western_logo.png)
+![images](https://github.com/lakchchayam/Thesis-Western-University/assets/49754403/e674a35d-98b5-45de-9695-c270bd7e38c3)
+
 
 ## Overview
 
